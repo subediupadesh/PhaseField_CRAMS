@@ -7,28 +7,28 @@ The psudo-binary formulation for multicomponent steel is accomplished usign pyMP
 
 [1] pyMPEALab App [![multicomponentANN](https://img.shields.io/badge/pyMPEALab-streamlit-red)](https://pympealab.streamlit.app/)
 
-The phase field simulations are performed in MOOSE framework. 
+The phase field simulations are performed in [MOOSE framework](https://mooseframework.inl.gov/). 
 ## Phase Field Modeling of Laser Processing
 ### Phase Evolution | Thermal History
 
 <table>
   <tr>
     <td>
-      <strong>High AED condition 5 J/mm^2</strong><br>
+      <strong>High AED condition 5 J/mm²</strong><br>
       <img src="3_Simulation_Video_Animation/video_animations/high_AED/gif/highAED_Phase_evolve.gif" alt="Phase Evolution" width="400"/>
     </td>
     <td>
-      <strong>High AED condition 5 J/mm^2</strong><br>
+      <strong>High AED condition 5 J/mm²</strong><br>
       <img src="3_Simulation_Video_Animation/video_animations/high_AED/gif/highAED_T_dist.gif" alt="Temperature Distribution" width="400"/>
     </td>
   </tr>
   <tr>
     <td>
-      <strong>High AED condition 1.25 J/mm^2</strong><br>
+      <strong>High AED condition 1.25 J/mm²</strong><br>
       <img src="3_Simulation_Video_Animation/video_animations/low_AED/gif/lowAED_Phase_evolve.gif" alt="Phase Evolution" width="400"/>
     </td>
     <td>
-      <strong>High AED condition 1.25 J/mm^2</strong><br>
+      <strong>High AED condition 1.25 J/mm²</strong><br>
       <img src="3_Simulation_Video_Animation/video_animations/low_AED/gif/lowAED_T_dist.gif" alt="Temperature Distribution" width="400"/>
     </td>
   </tr>
