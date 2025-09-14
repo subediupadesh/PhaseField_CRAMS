@@ -4,7 +4,7 @@ Primary Austenite (gamma) phase is more resitant to pitting or crevice corrosion
 Ni is assumed to be an Austenite stabilizer.
 This repository consists of the data and codes related to phase field simulations of pseudo binary formulation for Duplex stainless steel to unravel the process-structure relationship in additively manufactured microstructures.
 The psudo-binary formulation for multicomponent steel is accomplished usign pyMPEALab toolkit [1].
-
+[1] pyMPEALab App [![multicomponentANN](https://img.shields.io/badge/pyMPEALab-streamlit-red)](https://pympealab.streamlit.app/)
 
 The phase field simulations are performed in MOOSE framework. 
 
@@ -12,8 +12,8 @@ The phase field simulations are performed in MOOSE framework.
 
 
 
-[1] pyMPEALab App [![multicomponentANN](https://img.shields.io/badge/pyMPEALab-streamlit-red)](https://pympealab.streamlit.app/)
-The documentation of this repository is made in the work with the following title:
+
+The documentation of PhaseField_CRAMS is made in the work with the following title:
 
 
 ## Integrating experiments and phase field method through informatics  for tailored corrosion performance of additively manufactured steel microstructures.
