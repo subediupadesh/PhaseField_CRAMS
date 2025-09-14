@@ -1,6 +1,6 @@
-PhaseField CRAMS : Phase Field - Corrosion Resistant Additive Manufacturing Simulations
+# PhaseField CRAMS : Phase Field - Corrosion Resistant Additive Manufacturing Simulations
 
-# Integrating experiments and phase field method through informatics  for tailored corrosion performance of additively manufactured steel microstructures.
+## Integrating experiments and phase field method through informatics  for tailored corrosion performance of additively manufactured steel microstructures.
 
 [Mengistu Dagnaw](https://www.linkedin.com/in/),
 [Sachin Poudel](https://www.linkedin.com/in/),
@@ -15,8 +15,8 @@ PhaseField CRAMS : Phase Field - Corrosion Resistant Additive Manufacturing Simu
 [Anil Kunwar](https://www.linkedin.com/in/anil-kunwar-9ba81653/)
 
 
-# Phase Field Modeling of Laser Processing
-## Phase Evolution | Thermal History
+## Phase Field Modeling of Laser Processing
+### Phase Evolution | Thermal History
 
 <table>
   <tr>
