@@ -25,11 +25,11 @@ The phase field simulations are performed in [MOOSE framework](https://moosefram
   </tr>
   <tr>
     <td>
-      <strong>High AED condition 1.25 J/mm²</strong><br>
+      <strong>Low AED condition 1.25 J/mm²</strong><br>
       <img src="3_Simulation_Video_Animation/video_animations/low_AED/gif/lowAED_Phase_evolve.gif" alt="Phase Evolution" width="400"/>
     </td>
     <td>
-      <strong>High AED condition 1.25 J/mm²</strong><br>
+      <strong>Low AED condition 1.25 J/mm²</strong><br>
       <img src="3_Simulation_Video_Animation/video_animations/low_AED/gif/lowAED_T_dist.gif" alt="Temperature Distribution" width="400"/>
     </td>
   </tr>
