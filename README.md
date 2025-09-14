@@ -40,7 +40,7 @@ The phase field simulations are performed in [MOOSE framework](https://moosefram
 
 
 
-The documentation of PhaseField_CRAMS is made in the work with the following title:
+The documentation of PhaseField_CRAMS is available in:
 
 
 ## Integrating experiments and phase field method through informatics  for tailored corrosion performance of additively manufactured steel microstructures.
