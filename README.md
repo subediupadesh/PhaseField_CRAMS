@@ -3,7 +3,8 @@
 Primary Austenite (gamma) phase is more resitant to pitting or crevice corrosion as compared to ferrite (alpha) phase. 
 Ni is assumed to be an Austenite stabilizer.
 This repository consists of the data and codes related to phase field simulations of pseudo binary formulation for Duplex stainless steel to unravel the process-structure relationship in additively manufactured microstructures.
-The psudo-binary formulation for multicomponent steel is accomplished usign pyMPEALab toolkit [1].
+The psudo-binary formulation for multicomponent steel is accomplished usign pyMPEALab toolkit [1]. It is to be noted that different processing parameters (P, vscan) can alter the growth kinetics and stability of gamma and alpha phases.
+For example, the gamma phase is preferred more for AED = 5 J/mm2 as compared to 1.25 J/mm2. Such process parameter dependent differential structural evolution can be mechanistically modeled using phase field method. And, this knowledge could be utilized to programm the pitting resitance property of Duplex stainless steels.
 
 [1] pyMPEALab App [![multicomponentANN](https://img.shields.io/badge/pyMPEALab-streamlit-red)](https://pympealab.streamlit.app/)
 
