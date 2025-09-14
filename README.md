@@ -46,7 +46,7 @@
 ## Description of the Repository PhaseField_CRAMS
 Primary Austenite (gamma) phase is more resitant to pitting or crevice corrosion as compared to ferrite (alpha) phase. 
 Ni is assumed to be an Austenite stabilizer.
-This work represents a pseudo binary formulation for Duplex stainless steel to unravel the process-structure relationship in additively manufactured microstructures.
+This repository consists of the data and codes related to phase field simulations of pseudo binary formulation for Duplex stainless steel to unravel the process-structure relationship in additively manufactured microstructures.
 The psudo-binary formulation for multicomponent steel is accomplished usign pyMPEALab toolkit [1].
 
 
